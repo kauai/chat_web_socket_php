@@ -1,0 +1,20 @@
+{
+    "name": "thiag/a-web-socket",
+    "authors": [
+        {
+            "name": "Thiago kauai",
+            "email": "html5ephp@gmail.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "^0.4.2"
+    }
+}
